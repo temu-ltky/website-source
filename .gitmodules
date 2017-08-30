@@ -1,4 +1,3 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:temu-ltky/temu-ltky.github.io.git
-	branch = master
