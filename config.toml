@@ -1,0 +1,31 @@
+baseurl = "https://temu-ltky.github.io"
+title = "Temu - Teekkareiden musiikki"
+theme = "dimension"
+languageCode = "fi-fi"
+defaultContentLanguage = "fi"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  title = "Temu"
+  description = '<!--[-->Teekkareiden musiikkikerho. <a href="https://www.ltky.fi">LTKY</a> <!--]--><br />
+                <!--[-->Laserkatu 10 53850 Lappeenranta<!--]-->'
+  logoimage = "/images/logo.png"
+  copyright = "Temu"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/Teekkareiden-musiikkikerho-175044662618516"
+
+[languages]
+[languages.fi]
+languageName = "Suomeksi"
+weight = 1
+title = "Temu"
+
+[languages.en]
+languageName = "In English"
+weight = 2
+title = "Temu"
+
