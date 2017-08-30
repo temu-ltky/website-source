@@ -1,28 +1,41 @@
 +++
-date = "2017-03-02T11:59:27-05:00"
 title = "Contact"
 weight = 40
 draft = false
-
 +++
 
-<form method="post" action="#">
-    <div class="field half first">
-        <label for="name">Name</label>
-        <input type="text" name="name" id="name" />
-    </div>
-    <div class="field half">
-        <label for="email">Email</label>
-        <input type="text" name="email" id="email" />
-    </div>
-    <div class="field">
-        <label for="message">Nachricht</label>
-        <textarea name="message" id="message" rows="4"></textarea>
-    </div>
-    <ul class="actions">
-        <li><input type="submit" value="Absenden" class="special" /></li>
-        <li><input type="reset" value="Zurücksetzen" /></li>
-    </ul>
+<form id="contactform" method="post" action="https://formspree.io/tatuhut@gmail.com">
+	<div class="field half first">
+		<input type="text" name="name" id="name" placeholder="Name"/>
+	</div>
+	<div class="field half">
+		<input type="email" id="email" name="email" placeholder="Email">
+	</div>
+	<div class="field">
+		<textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
+	</div>
+	<ul class="actions">
+		<li><input type="submit" value="Send message" class="special" /></li>
+		<li><input type="reset" value="Reset" /></li>
+	</ul>
+	<input type="hidden" name="_next" value="?sent#contact" />
+	<input type="hidden" name="_subject" value="Yhteydenotto" />
+	<input type="text" name="_gotcha" style="display:none" />
 </form>
+<span id="contactformsent">Thank you for your message</span>
+
+<script>
+$(document).ready(function($) { 
+    $(function(){
+        if (window.location.search == "?sent") {
+        	$('#contactform').hide();
+        	$('#contactformsent').show();
+        } else {
+        	$('#contactformsent').hide();
+        }
+    });
+});
+</script>
+
 
 {{< socialLinks >}}

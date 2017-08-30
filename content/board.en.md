@@ -6,4 +6,38 @@ weight = 30
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
+Temu's board 2017
+
+
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Nimi</th>
+				<th>Tehtävä</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Atte Putkonen</td>
+				<td>Chairman</td>
+			</tr>
+			<tr>
+				<td>Joonas Suikula</td>
+				<td>Vice chairman</td>
+			</tr>
+            <tr>
+				<td>Mikko Hämäläinen</td>
+				<td>Equipment manager</td>
+			</tr>
+            <tr>
+				<td>Santeri Vanhala</td>
+				<td>Treasurer</td>
+			</tr>
+            <tr>
+				<td>Tatu Huttunen</td>
+				<td>Webmaster & electronic music sensei</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

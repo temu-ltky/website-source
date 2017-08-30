@@ -4,4 +4,37 @@ weight = 30
 draft = false
 +++
 
-Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
+Teekkareiden musiikkikerhon hallitus vuodelle 2017
+
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Nimi</th>
+				<th>Tehtävä</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Atte Putkonen</td>
+				<td>Puheenjohtaja</td>
+			</tr>
+			<tr>
+				<td>Joonas Suikula</td>
+				<td>Varapuheenjohtaja</td>
+			</tr>
+            <tr>
+				<td>Mikko Hämäläinen</td>
+				<td>Kalustovastaava</td>
+			</tr>
+            <tr>
+				<td>Santeri Vanhala</td>
+				<td>Rahastonhoitaja</td>
+			</tr>
+            <tr>
+				<td>Tatu Huttunen</td>
+				<td>www- ja bittimusiikkivastaava</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

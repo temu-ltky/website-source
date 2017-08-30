@@ -1,27 +1,42 @@
 +++
 title = "Ota yhteyttä"
 weight = 40
+menuname = "viesti"
 draft = false
-menuname = "Viesti"
 +++
 
-<form method="post" action="#">
+<form id="contactform" method="post" action="https://formspree.io/tatuhut@gmail.com">
 	<div class="field half first">
-		<label for="name">Name</label>
-		<input type="text" name="name" id="name" />
+		<input type="text" name="name" id="name" placeholder="Nimi"/>
 	</div>
 	<div class="field half">
-		<label for="email">Email</label>
-		<input type="text" name="email" id="email" />
+		<input type="email" id="email" name="email" placeholder="Email">
 	</div>
 	<div class="field">
-		<label for="message">Message</label>
-		<textarea name="message" id="message" rows="4"></textarea>
+		<textarea name="message" id="message" rows="4" placeholder="Viestisi"></textarea>
 	</div>
 	<ul class="actions">
-		<li><input type="submit" value="Send Message" class="special" /></li>
-		<li><input type="reset" value="Reset" /></li>
+		<li><input type="submit" value="Lähetä" class="special" /></li>
+		<li><input type="reset" value="nollaa" /></li>
 	</ul>
+	<input type="hidden" name="_next" value="?sent#contact" />
+	<input type="hidden" name="_subject" value="Yhteydenotto" />
+	<input type="text" name="_gotcha" style="display:none" />
 </form>
+<span id="contactformsent">Kiitos viestistäsi</span>
+
+<script>
+$(document).ready(function($) { 
+    $(function(){
+        if (window.location.search == "?sent") {
+        	$('#contactform').hide();
+        	$('#contactformsent').show();
+        } else {
+        	$('#contactformsent').hide();
+        }
+    });
+});
+</script>
+
 
 {{< socialLinks >}}
