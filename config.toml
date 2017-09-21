@@ -1,4 +1,4 @@
-baseurl = "temu.ltky.fi"
+baseurl = "https://temu-ltky.github.io"
 title = "Temu - Teekkareiden musiikki"
 theme = "dimension"
 languageCode = "fi-fi"
