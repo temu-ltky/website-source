@@ -4,7 +4,7 @@ weight = 40
 draft = false
 +++
 
-<form id="contactform" method="post" action="https://formspree.io/tatuhut@gmail.com">
+<form id="contactform" method="post" action="https://formspree.io/temu.hallitus@gmail.com">
 	<div class="field half first">
 		<input type="text" name="name" id="name" placeholder="Name"/>
 	</div>
