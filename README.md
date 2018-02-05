@@ -6,4 +6,21 @@ The website is hosted by github pages from a separate [repository](https://githu
 
 See [Hugo's documentation](https://gohugo.io/getting-started/) and github pages' [deploy guide](https://gohugo.io/hosting-and-deployment/hosting-on-github/#host-github-user-or-organization-pages) for more information.
 
-Build and development instructions using [docker image](https://github.com/jguyomard/docker-hugo)
+
+
+To serve your site locally:
+
+```bash
+docker run --rm -it -v $PWD:/src -p 1313:1313 -u hugo jguyomard/hugo-builder hugo server -w --bind=0.0.0.0
+```
+
+Then open [`http://localhost:1313/`](http://localhost:1313/) in your browser.
+
+To build your site:
+
+```bash
+docker run --rm -it -v $PWD:/src -u hugo jguyomard/hugo-builder hugo
+```
+
+
+More information can be found in [docker image's documentation](https://github.com/jguyomard/docker-hugo)
