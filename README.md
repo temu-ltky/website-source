@@ -6,3 +6,4 @@ The website is hosted by github pages from a separate [repository](https://githu
 
 See [Hugo's documentation](https://gohugo.io/getting-started/) and github pages' [deploy guide](https://gohugo.io/hosting-and-deployment/hosting-on-github/#host-github-user-or-organization-pages) for more information.
 
+Build and development instructions using [docker image](https://github.com/jguyomard/docker-hugo)

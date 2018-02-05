@@ -4,7 +4,7 @@ weight = 30
 draft = false
 +++
 
-Teekkareiden musiikkikerhon hallitus vuodelle 2017
+Teekkareiden musiikkikerhon hallitus vuodelle 2018
 
 <div class="table-wrapper">
 	<table>
@@ -16,15 +16,15 @@ Teekkareiden musiikkikerhon hallitus vuodelle 2017
 		</thead>
 		<tbody>
 			<tr>
-				<td>Atte Putkonen</td>
+				<td>Joonas Suikula</td>
 				<td>Puheenjohtaja</td>
 			</tr>
 			<tr>
-				<td>Joonas Suikula</td>
+				<td>Atte Putkonen</td>
 				<td>Varapuheenjohtaja</td>
 			</tr>
             <tr>
-				<td>Mikko Hämäläinen</td>
+				<td>Oskari Kalliomäki</td>
 				<td>Kalustovastaava</td>
 			</tr>
             <tr>

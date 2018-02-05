@@ -6,7 +6,7 @@ weight = 30
 
 +++
 
-Temu's board 2017
+Temu's board 2018
 
 
 <div class="table-wrapper">
@@ -19,15 +19,15 @@ Temu's board 2017
 		</thead>
 		<tbody>
 			<tr>
-				<td>Atte Putkonen</td>
+				<td>Joonas Suikula</td>
 				<td>Chairman</td>
 			</tr>
 			<tr>
-				<td>Joonas Suikula</td>
+				<td>Atte Putkonen</td>
 				<td>Vice chairman</td>
 			</tr>
             <tr>
-				<td>Mikko Hämäläinen</td>
+				<td>Oskari Kalliomäki</td>
 				<td>Equipment manager</td>
 			</tr>
             <tr>
