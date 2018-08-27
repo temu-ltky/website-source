@@ -50,8 +50,10 @@ Price 250€
   
 Price: 50€
 
+
 Lights:
-Led pars, ledbars, quads, strobe...
+
+- Led pars, ledbars, quads, strobe...
 
 Price 5€/lamp till 50€ flat
 
