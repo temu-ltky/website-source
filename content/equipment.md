@@ -11,12 +11,14 @@ Hinnasto:
 DJ-kamat
 - Pelkät levysoittimet ja mikseri, ei kajareita
 - Myydään lisänä
+
 Hinta 50€
 
 Puhesetti
 - 2x RCF aktiivi kaiuttimet
 - mikseri
 - mikrofonit
+
 Hinta: 90€ (50€ itse asennettuna)
 
 Laajennettu puhesetti
@@ -24,6 +26,7 @@ Laajennettu puhesetti
 - aktiivi subwoofer
 - mikseri
 - mikrofonit
+
 Hinta: 150€
 
 Iso-PA
@@ -31,6 +34,7 @@ Iso-PA
 - 4x passiivi 18" subwooferit
 - 2000W päätevahvistimet
 - Allen & Heath GLD-80 mikseri
+
 Hinta 250€
 
 Backline
@@ -39,7 +43,9 @@ Backline
 - Hartke 350W bassovahvistin
 - Hartke 4x10" bassokaappi
 - rumpusetti
+
 Hinta 50€
+
 
 Valoja
 - Ledi kannuja, leditolppia, quadeja, strobo...
