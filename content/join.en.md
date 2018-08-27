@@ -11,4 +11,4 @@ To join tech students music club, TeMu, you have to apply via google forms and p
 
   https://goo.gl/forms/AqF2KRBu6d9qaoNe2
 
-Members have the right to use the training room after reserving it from clubs Google calendar. One reservation is for 2 hours and you may make one reservation a day per band. Exceptions can be made if you require longer training sessions before a gig for example. You will be given access to the calendar after you becoming a member. 
+Members have the right to use the training room after reserving it from clubs Google calendar. One reservation is for 2 hours and you may make one reservation a day per band and max 3 per week. Exceptions can be made if you require longer training sessions before a gig for example. You will be given access to the calendar after you becoming a member. 
