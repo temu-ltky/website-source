@@ -9,14 +9,14 @@ Temulta on mahdollista vuokrata kalustoa erilaisiin tapahtumiin. Jos olet kiinno
 Hinnasto:
 
 DJ-kamat
-Hinta 50e
+Hinta 50€
 
 Puhesetti: 
 2x RCF aktiivi kaiuttimet
 mikseri
 mikrofonit
 
--Hinta: 90e (50e itse asennettuna)
+-Hinta: 90€ (50€ itse asennettuna)
 
 Laajennettu puhesetti:
 2x RCF aktiivi kaiuttimet 
@@ -24,7 +24,7 @@ aktiivi subwoofer
 mikseri
 mikrofonit
 
--Hinta: 150e
+-Hinta: 150€
 
 Iso-PA:
 dB Arena 15 yläpääkaiuttimet
@@ -32,7 +32,7 @@ dB Arena 15 yläpääkaiuttimet
 2000W päätevahvistimet
 Allen & Heath GLD-80 mikseri
 
--Hinta 250e
+-Hinta 250€
 
 Backline:
 Enkl Thunder ja PEavey Valveking nupit,
@@ -41,9 +41,9 @@ Hartke 350W bassovahvistin
 Hartke 4x10" bassokaappi
 rumpusetti
 
--Hinta 50e
+-Hinta 50€
 
 Valoja:
 Ledi kannuja, leditolppia, quadeja, strobo...
 
-Hinta 5e/valo 50e asti
+Hinta 5€/valo 50€ asti
