@@ -11,12 +11,14 @@ It is possible to rent equipment from temu for different events. If you are inte
 
 "DJ-set"
  -no speakers, just an addition
+ 
 Price 50€
 
 "Speaker set"
 - 2x RCF active speakers
 - mixer
 - microfones
+
 Price: 90€ (50€ self-installation)
 
 "Speaker set with a subwoofer"
@@ -24,6 +26,7 @@ Price: 90€ (50€ self-installation)
 - actice 18" subwoofer
 - mixer
 - microfones
+
 Price: 150€
 
 "Big-PA"
@@ -31,6 +34,7 @@ Price: 150€
 - 4x passive subwooferit
 - 2000W racks
 - Allen & Heath GLD-80 digital mixer
+
 Price 250€
 
 "Backline" 
@@ -41,6 +45,7 @@ Price 250€
   Hartke 350W heads
   Hartke 4x10" cabs
   rumpusetti
+  
 Price: 50€
 
 Lights:
