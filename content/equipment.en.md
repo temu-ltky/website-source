@@ -46,7 +46,7 @@ Price 250€
 
   Hartke 350W heads
   Hartke 4x10" cabs
-- rumpusetti
+- drumkit
   
 Price: 50€
 
