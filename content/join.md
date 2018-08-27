@@ -9,4 +9,4 @@ Lappeenrannan Teknillisen Yliopiston Musiikkiyhdistksen, TeMun, jäsenmaksu on 1
 
 https://goo.gl/forms/AqF2KRBu6d9qaoNe2
 
-Jäsenillä on oikeus käyttää treenitilaa haluamaansa aikaan tasatunnein varattuaan sen Google kalenterista. Varauksen kesto on kaksi tuntia ja varauksia saa tehdä maksimissaan 3 kpl / viikko. Poikkeuksia voidaan tehdä esimerksi keikkareenien takia. Varauksen tekemiseen tarvittavat tiedot kerrotaan liittymisen yhteydessä.
+Jäsenillä on oikeus käyttää treenitilaa haluamaansa aikaan tasatunnein varattuaan sen Google kalenterista. Varauksen kesto on kaksi tuntia ja varauksia saa tehdä maksimissaan yhden päivässä ja 3 kpl / viikko. Poikkeuksia voidaan tehdä esimerksi keikkareenien takia, tälläisissä tilanteissa ota yhteyttä hallitukseen. Varauksen tekemiseen tarvittavat tiedot kerrotaan liittymisen yhteydessä.
