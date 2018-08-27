@@ -39,12 +39,14 @@ Price 250€
 
 "Backline" 
 - Guitar:
+
   Enkl Thunder and PEavey Valveking heads
   2x Framus FR212 cabs
 - Bass:
+
   Hartke 350W heads
   Hartke 4x10" cabs
-  rumpusetti
+- rumpusetti
   
 Price: 50€
 
