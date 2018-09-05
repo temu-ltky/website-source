@@ -6,50 +6,48 @@ title = "Equipment"
 
 +++
 
-It is possible to rent equipment from temu for different events. If you are interested, [contact us.](#contact)
+<p>It is possible to rent equipment from Temu for different events. If you are interested, <a href="#contact">contact us.</a></p>
+<p>"DJ-set"</p>
+	<ul>
+		<li>No speakers, just an addition</li>
+		<li>Price: 50€</li>
+	</ul>
+<p>"Speaker set"</p>
+	<ul>
+		<li>2x RCF active speakers</li>
+		<li>Mixer</li>
+		<li>Microphones</li>
+		<li>Price: 90€ (50€ self-installation)</li>
+	</ul>
+<p>"Speaker set with a subwoofer"</p>
+	<ul>
+		<li>2x RCF active speakers</li>
+		<li>Active 18" subwoofer</li>
+		<li>Mixer</li>
+		<li>Microphones</li>
+		<li>Price: 150€</li>
+	</ul>
+<p>"Big-PA"</p>
+	<ul>
+		<li>dB Arena 15 speakers</li>
+		<li>4x passive subwoofers</li>
+		<li>2000W racks</li>
+		<li>Allen &amp; Heath GLD-80 digital mixer</li>
+		<li>Price: 250€</li>
+	</ul>
+<p>"Backline"</p>
+	<ul>
+		<li>Engl Thunder and Peavey Valveking heads</li>
+		<li>2x Framus FR212 cabs</li>
+		<li>Hartke 350W head</li>
+		<li>Hartke 4x10" cabs</li>
+		<li>Drumkit</li>
+		<li>Price: 50€</li>
+	</ul>
+<p>Lights:</p>
+	<ul>
+		<li>Led pars, ledbars, quads, strobe...</li>
+		<li>Price 5€/lamp till 50€ flat</li>
+	</ul>
 
-
-"DJ-set"
- -no speakers, just an addition
-- Price 50€
-
-"Speaker set"
-- 2x RCF active speakers
-- mixer
-- microfones
-- Price: 90€ (50€ self-installation)
-
-"Speaker set with a subwoofer"
-- 2x RCF active speakers
-- actice 18" subwoofer
-- mixer
-- microfones
-- Price: 150€
-
-"Big-PA"
-- dB Arena 15 speakers
-- 4x passive subwooferit
-- 2000W racks
-- Allen & Heath GLD-80 digital mixer
-- Price 250€
-
-"Backline" 
-- Guitar:
-
-  Enkl Thunder and PEavey Valveking heads
-  2x Framus FR212 cabs
-- Bass:
-
-  Hartke 350W heads
-  Hartke 4x10" cabs
-- drumkit
-  
-- Price: 50€
-
-
-Lights:
-
-- Led pars, ledbars, quads, strobe...
-
-Price 5€/lamp till 50€ flat
 
