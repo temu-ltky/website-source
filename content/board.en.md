@@ -6,38 +6,15 @@ weight = 30
 
 +++
 
-Temu's board 2018
+Temu's board 2021
 
+Contact with the [contact form](#contact) or with email at temu.hallitus@gmail.com
 
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Nimi</th>
-				<th>Tehtävä</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Joonas Suikula</td>
-				<td>Chairman</td>
-			</tr>
-			<tr>
-				<td>Atte Putkonen</td>
-				<td>Vice chairman</td>
-			</tr>
-            <tr>
-				<td>Oskari Kalliomäki</td>
-				<td>Equipment manager</td>
-			</tr>
-            <tr>
-				<td>Santeri Vanhala</td>
-				<td>Treasurer</td>
-			</tr>
-            <tr>
-				<td>Tatu Huttunen</td>
-				<td>Webmaster & electronic music sensei</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
+| Name               | Task                 |
+| ------------------ | -------------------- |
+| Riku Ahtiainen     | Chairman             |
+| Oskari Kalliomäki  | Vice chairman        |
+| Akseli Suutari     | Equipment manager    |
+| Elias Samuli       | Treasurer            |
+| Antti Karhunen     | Secretary            |
+| Tommi Paakkunainen | Techmu-correspondent |

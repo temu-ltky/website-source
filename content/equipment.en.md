@@ -6,48 +6,63 @@ title = "Equipment"
 
 +++
 
-<p>It is possible to rent equipment from Temu for different events. If you are interested, <a href="#contact">contact us.</a></p>
-<p>"DJ-set"</p>
-	<ul>
-		<li>No speakers, just an addition</li>
-		<li>Price: 50€</li>
-	</ul>
-<p>"Speaker set"</p>
-	<ul>
-		<li>2x RCF active speakers</li>
-		<li>Mixer</li>
-		<li>Microphones</li>
-		<li>Price: 90€ (50€ self-installation)</li>
-	</ul>
-<p>"Speaker set with a subwoofer"</p>
-	<ul>
-		<li>2x RCF active speakers</li>
-		<li>Active 18" subwoofer</li>
-		<li>Mixer</li>
-		<li>Microphones</li>
-		<li>Price: 150€</li>
-	</ul>
-<p>"Big-PA"</p>
-	<ul>
-		<li>dB Arena 15 speakers</li>
-		<li>4x passive subwoofers</li>
-		<li>2000W racks</li>
-		<li>Allen &amp; Heath GLD-80 digital mixer</li>
-		<li>Price: 250€</li>
-	</ul>
-<p>"Backline"</p>
-	<ul>
-		<li>Engl Thunder and Peavey Valveking heads</li>
-		<li>2x Framus FR212 cabs</li>
-		<li>Hartke 350W head</li>
-		<li>Hartke 4x10" cabs</li>
-		<li>Drumkit</li>
-		<li>Price: 50€</li>
-	</ul>
-<p>Lights:</p>
-	<ul>
-		<li>Led pars, ledbars, quads, strobe...</li>
-		<li>Price 5€/lamp till 50€ flat</li>
-	</ul>
+We rent sound and lighting equipment for different events. In addition to the packages listed below we can rent out some of our other equipment. We offer training for the installation and usage of the equipment if necessary. We can also offer technical staff where possible. If you are interested [contact us.](#contact)
 
+NOTE! If you are ordering equipment for a band or an artist to use from us, we absolutely require a technical rider well before the date of the performance.
 
+The rental prices below are valid for associations in LTKY's registry. For other parties the fees are agreed upon on a case by case basis
+
+### RENTAL PRICES OF THE EQUIPMENT:
+
+All prices include the necessary signal and power cables.
+
+DJ-equipment:
+
+- Just the players and the mixer, no loudspeakers (2x Pioneer XDJ-1000mk2, Pioneer DJM-900nexus)
+- Sold as an addition to the loudspeaker packages
+- Alternatively CD or vinyl players also available
+
+**Price: 100€, 50€ with other audio equipment (e.g. speech package)**
+
+Speech package:
+
+- 2x 12” active loudspeaker and stands
+- 8 channel mixer and 3.5mm aux cable
+- Microphones (wired or wireless)
+
+**Price: 90€ (50€ if you install by yourself)**
+
+Enhanced speech set:
+
+- 2x 12” active loudspeaker and stands
+- 1x 15” active subwoofer with speaker processor
+- 8 channel mixer and 3.5mm aux cable
+- Microphones (wired or wireless)
+
+**Price: 150€**
+
+Big PA:
+
+- 2x 15” mid-high speakers (dBTechnologies Arena 15 Pro, 500W RMS)
+- 4x 18” passive subwoofer (Had Audio SW184PL, 1000W RMS)
+- 3000W power amplifier rack (dbx DriveRack PA, c audio Pulse 2x1100 ja Powersoft M30D)
+- Digital mixer and stagebox (Allen&Heath GLD-80 ja AR2412)
+
+**Price: 250€**
+
+Backline:
+
+- Engl Thunder 50 and Peavey Valveking 100 tube heads
+- 2x Framus 2x12” cabinet
+- Hartke HA3500 bass head
+- Hartke 4x10” bass cabinet
+- Drum set (Pearl Vision Birch VBL)
+- Synthesizer (Roland RS-5)
+
+**Price: 50€**
+
+Lighting:
+
+- LED PAR pots, LED bars, Quad Phases, strobes, smoke machine…
+
+**Price: 5€/fixture, up to 150€**

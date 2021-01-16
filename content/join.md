@@ -5,8 +5,9 @@ draft = false
 +++
 
 {{< figure class="image main" src="/images/pic01.jpg" >}}
-Lappeenrannan Teknillisen Yliopiston Musiikkiyhdistyksen, TeMun, jäsenmaksu on 10 €. Voit hakea yhdistyksen jäsenyyttä täyttämällä oheisen liittymislomakkeen. Jäsenmaksun maksuohjeet lähetetään sähköpostitse, kun hakemuksesi on käsitelty.
+TeMu ry:n varsinaisiksi jäseneksi hyväksytään pääasiallisesti LUT-konsernissa tutkintoa suorittavat opiskelija. LUT-konsernista jo valmistuneet henkilöt tai konsernin työntekijät voivat hakea seniorijäsenyyttä. Hallitus voi myös poikkeuksellisesti hyväksyä muun musiikista kiinnostuneen henkilön varsinaiseksi jäseneksi, jos tätä kirjallisesti hallitukselta anotaan.
+TeMu ry:n vuosittainen jäsenmaksu on 10€.
 
-<a target="_blank" href="https://goo.gl/forms/AqF2KRBu6d9qaoNe2">Liittymislomake</a>
+TeMun jäseneksi voit liittyä maksamalla jäsenmaksun Holvi-verkkokauppaamme. Vastaanotettuamme maksusi ja hyväksyttyämme jäsenyytesi myönnetään sinulle käyttöoikeudet Pommarin varauskalenteriin sekä kulkuavaimellesi (eli lutikalle) kulkuoikeudet Pommarin oviin
 
-Jäsenillä on oikeus käyttää treenitilaa haluamaansa aikaan tasatunnein varattuaan sen Google kalenterista. Varauksen kesto on kaksi tuntia ja varauksia saa tehdä maksimissaan yhden päivässä ja 3 kpl / viikko. Poikkeuksia voidaan tehdä esimerksi keikkatreenien takia, tälläisissä tilanteissa ota yhteyttä hallitukseen. Varauksen tekemiseen tarvittavat tiedot kerrotaan liittymisen yhteydessä.
+[Holvi verkkokauppa](https://holvi.com/shop/Temury/)

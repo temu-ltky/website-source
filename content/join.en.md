@@ -7,8 +7,10 @@ draft = false
 +++
 
 {{< figure class="image main" src="/images/pic01.jpg" >}}
-To join tech students music club, TeMu, you have to apply via Google form and pay the membership fee. The fee is 10 € and it is to be paid to the clubs bank account according to the information you will be sent after your membership application has been processed. 
+We mainly accept degree students of LUT-concern as our actual members. Alumnus or staff of LUT-concern may apply as a senior member. The board may also exceptionally accept other individuals interested in music as actual members, if this is pleaded from the board in a written form.
 
-<a target="_blank" href="https://goo.gl/forms/AqF2KRBu6d9qaoNe2">Joining form</a>
+TeMu ry’s annual membership fee is 10€.
 
-Members have the right to use the training room after reserving it from club's Google calendar. One reservation is for 2 hours and you may make one reservation a day per band and max 3 per week. Exceptions can be made if you require longer training sessions before a gig for example, in such cases contact the board. You will be granted access to the calendar after becoming a member. 
+You can join TeMu ry by purchasing the membership from our Holvi webstore. After we have received your payment and accepted your membership you will be granted access to Pommari reservation calendar and access rights to the Pommari doors will be added to your magnetic key
+
+[Holvi webstore](https://holvi.com/shop/Temury/)

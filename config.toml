@@ -8,8 +8,7 @@ disableKinds=["RSS"]
 
 [params]
   title = "Temu"
-  description = '<!--[-->Teekkareiden musiikkikerho. <a href="https://www.ltky.fi">LTKY</a> <!--]--><br />
-                <!--[-->Laserkatu 10 53850 Lappeenranta<!--]-->'
+  description = """LAPPEENRANNAN TEKNILLISEN YLIOPISTON MUSIIKKIYHDISTYS TEMU RY.<br /> <a href="https://ltky.fi/">LTKY</a> Laserkatu 10 53850 Lappeenranta"""
   logoimage = "/images/logo.png"
   copyright = "Temu"
 
@@ -29,3 +28,7 @@ languageName = "In English"
 weight = 2
 title = "Temu"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

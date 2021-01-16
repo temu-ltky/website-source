@@ -4,37 +4,15 @@ weight = 30
 draft = false
 +++
 
-Teekkareiden musiikkikerhon hallitus vuodelle 2018
+Teekkareiden musiikkikerhon hallitus vuodelle 2021
 
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Nimi</th>
-				<th>Tehtävä</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Joonas Suikula</td>
-				<td>Puheenjohtaja</td>
-			</tr>
-			<tr>
-				<td>Atte Putkonen</td>
-				<td>Varapuheenjohtaja</td>
-			</tr>
-            <tr>
-				<td>Oskari Kalliomäki</td>
-				<td>Kalustovastaava</td>
-			</tr>
-            <tr>
-				<td>Santeri Vanhala</td>
-				<td>Rahastonhoitaja</td>
-			</tr>
-            <tr>
-				<td>Tatu Huttunen</td>
-				<td>www- ja bittimusiikkivastaava</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
+Ota yhteyttä [Viesti-osion](#contact) kautta tai sähköpostilla temu.hallitus@gmail.com
+
+| Nimi               | Tehtävä           |
+| ------------------ | ----------------- |
+| Riku Ahtiainen     | Puheenjohtaja     |
+| Oskari Kalliomäki  | Varapuheenjohtaja |
+| Akseli Suutari     | Kalustovastaava   |
+| Elias Samuli       | Rahastonhoitaja   |
+| Antti Karhunen     | Sihteeri          |
+| Tommi Paakkunainen | Techmuvastaava    |

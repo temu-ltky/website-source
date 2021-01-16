@@ -4,49 +4,61 @@ weight = 20
 draft = false
 +++
 
-<p>Temulta on mahdollista vuokrata kalustoa erilaisiin tapahtumiin. Jos olet kiinnostunut, ota ihmeessä <a href="#contact">yhteyttä.</a></p>
-<p>Hinnasto:</p>
-<p>DJ-kamat</p>
-<ul>
-	<li>Pelkät levysoittimet ja mikseri, ei kajareita</li>
-	<li>Myydään lisänä</li>
-	<li>Hinta: 50€</li>
-</ul>
-<p>Puhesetti</p>
-<ul>
-	<li>2x RCF aktiivi kaiuttimet</li>
-	<li>mikseri</li>
-	<li>mikrofonit</li>
-	<li>Hinta: 90€ (50€ itse asennettuna)</li>
-</ul>
-<p>Laajennettu puhesetti</p>
-<ul>
-	<li>2x RCF aktiivi kaiuttimet</li>
-	<li>aktiivi subwoofer</li>
-	<li>mikseri</li>
-	<li>mikrofonit</li>
-	<li>Hinta: 150€</li>
-</ul>
-<p>Iso-PA</p>
-<ul>
-	<li>dB Arena 15 yläpääkaiuttimet</li>
-	<li>4x passiivi 18" subwooferit</li>
-	<li>2000W päätevahvistimet</li>
-	<li>Allen &amp; Heath GLD-80 mikseri</li>
-	<li>Hinta: 250€</li>
-</ul>
-<p>Backline</p>
-<ul>
-	<li>Engl Thunder ja Peavey Valveking nupit</li>
-	<li>2x Framus FR212 kaapit</li>
-	<li>Hartke 350W bassovahvistin</li>
-	<li>Hartke 4x10" bassokaappi</li>
-	<li>Rumpusetti</li>
-	<li>Hinta: 50€</li>
-</ul>
-<p>Valoja</p>
-<ul>
-	<li>Ledi kannuja, leditolppia, quadeja, strobo...</li>
-	<li>Hinta: 5€/valo 50€ asti</li>
-</ul>
+Vuokraamme äänentoisto- ja esiintymistekniikkaa erilaisiin tapahtumiin. Alla listattujen pakettien lisäksi voimme vuokrata myös muutakin kalustoamme. Tarjoamme tarvittaessa koulutusta laitteiden asennukseen ja käyttöön. Pystymme myös mahdollisuuksien salliessa tarjoamaan teknikkopalvelua. Jos olet kiinnostunut, ota ihmeessä [yhteyttä.](#contact)
 
+HUOM! Jos tilaat kauttamme äänentoistoa bändille tai artistille, vaadimme ehdottomasti teknisen raiderin hyvissä ajoin ennen tapahtuma-ajankohtaa.
+
+Allaolevat hinnat voimassa LTKY:n yhdistysrekisterin yhdistyksille. Muille tahoille vuokraushinnasto sovitaan tapauskohtaisesti.
+
+### LAITTEIDEN VUOKRAUSHINNASTO:
+
+DJ-laitteet:
+
+- Pelkät soittimet ja mikseri, ei kaiuttimia (2 kpl Pioneer XDJ-1000mk2, Pioneer DJM-900nexus)
+- Myydään kaiutinpakettien lisänä
+- Vaihtoehtoisesti myös CD- ja vinyylisoittimet saatavilla
+
+**Hinta: 100€, 50€ muun äänentoistokaluston lisänä (esim. puhesetin)**
+
+Puhesetti:
+
+- 2 kpl 12” aktiivikaiutin ja ständit
+- 8-kanavainen mikseri ja 3.5mm liitäntäkaapeli
+- Mikrofonit (langalliset tai langattomat)
+
+**Hinta: 90€ (50€ itseasennettuna)**
+
+Laajennettu puhesetti:
+
+- 2 kpl 12” aktiivikaiutin ja ständit
+- 1 kpl 15” aktiivisubwoofer kaiutinprosessorilla
+- 8-kanavainen mikseri ja 3.5mm liitäntäkaapeli
+- Mikrofonit (langalliset tai langattomat)
+
+**Hinta: 150€**
+
+Iso-PA:
+
+- 2 kpl 15” yläpääkaiutin (dBTechnologies Arena 15 Pro, 500W RMS)
+- 4 kpl 18” passiivisubwoofer (Had Audio SW184PL, 1000W RMS)
+- 3000W pääteräkki (dbx DriveRack PA, c audio Pulse 2x1100 ja Powersoft M30D)
+- Digimikseri ja lavarasia (Allen&Heath GLD-80 ja AR2412)
+
+**Hinta: 250€**
+
+Backline:
+
+- Engl Thunder 50 ja Peavey Valveking 100 putkinupit
+- 2 kpl Framus 2x12” kaappi
+- Hartke HA3500 bassonuppi
+- Hartke 4x10” bassokaappi
+- Rumpusetti (Pearl Vision Birch VBL)
+- Syntetisaattori (Roland RS-5)
+
+**Hinta: 50€**
+
+Valoja:
+
+- LED PAR-kannuja, leditolpat, Quad Phaset, strobo, savukone…
+
+**Hinta: 5€/valo, 150€ asti**
