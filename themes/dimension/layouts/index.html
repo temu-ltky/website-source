@@ -17,6 +17,11 @@
               <div class="inner">
                 <h1>{{ .Site.Params.title | safeHTML }}</h1>
                 <p>{{ .Site.Params.description | safeHTML }}</p>
+                <ul class="icons">
+                  {{ range .Site.Params.social }}
+                    <li><a href="{{ .link | safeURL }}" class="icon fa-{{ .icon }}"><span class="label">{{ .medium }}</span></a></li>
+                  {{ end }}
+                  </ul>
               </div>
             </div>
             <nav>

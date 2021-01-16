@@ -8,14 +8,19 @@ disableKinds=["RSS"]
 
 [params]
   title = "Temu"
-  description = """LAPPEENRANNAN TEKNILLISEN YLIOPISTON MUSIIKKIYHDISTYS TEMU RY.<br /> <a href="https://ltky.fi/">LTKY</a> Laserkatu 10 53850 Lappeenranta"""
+  description = """LAPPEENRANNAN TEKNILLISEN YLIOPISTON MUSIIKKIYHDISTYS TEMU RY.<br /> <a href="https://ltky.fi/">LTKY</a> Laserkatu 10 53850 Lappeenranta """
   logoimage = "/images/logo.png"
   copyright = "Temu"
 
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "https://www.facebook.com/Teekkareiden-musiikkikerho-175044662618516"
+  link = "https://www.facebook.com/luttemury/"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/temu_ry/"
 
 [languages]
 [languages.fi]
