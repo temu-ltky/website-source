@@ -6,7 +6,7 @@ draft = false
 
 Teekkareiden musiikkikerhon hallitus vuodelle 2021
 
-Ota yhteyttä [Viesti-osion](#contact) kautta tai sähköpostilla temu.hallitus@gmail.com
+Ota yhteyttä [Viesti-osion](#contact) kautta tai sähköpostilla temuhallitus@gmail.com
 
 | Nimi               | Tehtävä           |
 | ------------------ | ----------------- |
