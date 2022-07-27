@@ -4,15 +4,15 @@ weight = 30
 draft = false
 +++
 
-Teekkareiden musiikkikerhon hallitus vuodelle 2021
+Teekkareiden musiikkikerhon hallitus vuodelle 2022
 
 Ota yhteyttä [Viesti-osion](#contact) kautta tai sähköpostilla temuhallitus@gmail.com
 
 | Nimi               | Tehtävä           |
 | ------------------ | ----------------- |
-| Riku Ahtiainen     | Puheenjohtaja     |
-| Oskari Kalliomäki  | Varapuheenjohtaja |
-| Akseli Suutari     | Kalustovastaava   |
+| Akseli Suutari     | Puheenjohtaja     |
+| Riku Ahtiainen     | Varapuheenjohtaja |
+| Oskari Kalliomäki  | Kalustovastaava   |
 | Elias Samuli       | Rahastonhoitaja   |
-| Antti Karhunen     | Sihteeri          |
+| Oskari Ekholm      | Sihteeri          |
 | Tommi Paakkunainen | Techmuvastaava    |

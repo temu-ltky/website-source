@@ -6,15 +6,15 @@ weight = 30
 
 +++
 
-Temu's board 2021
+Temu's board 2022
 
 Contact with the [contact form](#contact) or with email at temuhallitus@gmail.com
 
 | Name               | Task                 |
 | ------------------ | -------------------- |
-| Riku Ahtiainen     | Chairman             |
-| Oskari Kalliomäki  | Vice chairman        |
-| Akseli Suutari     | Equipment manager    |
+| Akseli Suutari     | Chairman             |
+| Riku Ahtiainen     | Vice chairman        |
+| Oskari Kalliomäki  | Equipment manager    |
 | Elias Samuli       | Treasurer            |
-| Antti Karhunen     | Secretary            |
+| Oskari Ekholm      | Secretary            |
 | Tommi Paakkunainen | Techmu-correspondent |
