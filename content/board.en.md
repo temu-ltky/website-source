@@ -13,7 +13,7 @@ Contact with the [contact form](#contact) or with email at temuhallitus@gmail.co
 | Name               | Task                 |
 | ------------------ | -------------------- |
 | Akseli Suutari     | Chairman             |
-| Riku Ahtiainen     | Vice chairman        |
+| Riku Tulineva      | Vice chairman        |
 | Oskari Kalliomäki  | Equipment manager    |
 | Elias Samuli       | Treasurer            |
 | Oskari Ekholm      | Secretary            |

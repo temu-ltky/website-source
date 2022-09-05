@@ -11,7 +11,7 @@ Ota yhteyttä [Viesti-osion](#contact) kautta tai sähköpostilla temuhallitus@g
 | Nimi               | Tehtävä           |
 | ------------------ | ----------------- |
 | Akseli Suutari     | Puheenjohtaja     |
-| Riku Ahtiainen     | Varapuheenjohtaja |
+| Riku Tulineva      | Varapuheenjohtaja |
 | Oskari Kalliomäki  | Kalustovastaava   |
 | Elias Samuli       | Rahastonhoitaja   |
 | Oskari Ekholm      | Sihteeri          |
