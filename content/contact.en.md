@@ -8,12 +8,9 @@ draft = false
 
 ### Email: temuhallitus at gmail.com
 
-For rent inquries contact our sales manager:
-
-Sales manager: Antti Karhunen
-
-Telegram: [@nallekarhu](https://t.me/nallekarhu)
-
+For rent inquries contact our sales manager: \
+Sales manager: Antti Karhunen \
+Telegram: [@nallekarhu](https://t.me/nallekarhu) \
 Email: Myynti at temu.fi
 
 {{< socialLinks >}}
