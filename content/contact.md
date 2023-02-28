@@ -5,9 +5,9 @@ menuname = "viesti"
 draft = false
 +++
 
-# Yleisiin kyselyihin ole yhteydessä hallitukseen:
+### Yleisiin kyselyihin ole yhteydessä hallitukseen:
 
-# Sähköposti: temuhallitus at gmail.com
+### Sähköposti: temuhallitus at gmail.com
 
 Kaluston vuokraus kyselyistä ota yhteyttä myyntivastaavaan:
 Myyntivastaava: Antti Karhunen
