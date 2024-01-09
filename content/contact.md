@@ -10,8 +10,8 @@ draft = false
 ### Sähköposti: temuhallitus at gmail.com
 
 Kaluston vuokraus kyselyistä ota yhteyttä myyntivastaavaan: \
-Myyntivastaava: Antti Karhunen \
-Telegram: [@nallekarhu](https://t.me/nallekarhu) \
+Myyntivastaava: Leevi Antelo \
+Telegram: [@Lantel0](https://t.me/Lantel0) \
 Sähköposti: Myynti at temu.fi
 
 {{< socialLinks >}}
