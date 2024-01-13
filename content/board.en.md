@@ -8,7 +8,7 @@ weight = 30
 
 Temu's board 2024
 
-Contact with the [contact form](#contact) or with email at temuhallitus@gmail.com
+Contact with the [contact form](#contact)
 
 | Name             | Task                 |
 | ---------------- | -------------------- |
