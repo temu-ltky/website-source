@@ -4,11 +4,11 @@ weight = 20
 draft = false
 +++
 
-Vuokraamme äänentoisto- ja esiintymistekniikkaa erilaisiin tapahtumiin. Alla listattujen pakettien lisäksi voimme vuokrata myös muutakin kalustoamme. Tarjoamme tarvittaessa koulutusta laitteiden asennukseen ja käyttöön. Pystymme myös mahdollisuuksien salliessa tarjoamaan teknikkopalvelua. Jos olet kiinnostunut, ota ihmeessä [yhteyttä.](#contact)
+Vuokraamme äänentoisto- ja esiintymistekniikkaa erilaisiin tapahtumiin. Alla listattujen pakettien lisäksi voimme vuokrata myös muutakin kalustoamme. Tarjoamme tarvittaessa koulutusta laitteiden asennukseen ja käyttöön. Pystymme tarjoamaan myös teknikkopalvelua. Jos olet kiinnostunut, ota ihmeessä [yhteyttä.](#contact)
 
 HUOM! Jos tilaat kauttamme äänentoistoa bändille tai artistille, vaadimme ehdottomasti teknisen raiderin hyvissä ajoin ennen tapahtuma-ajankohtaa.
 
-Allaolevat hinnat voimassa LTKY:n yhdistysrekisterin yhdistyksille. Muille tahoille vuokraushinnasto sovitaan tapauskohtaisesti.
+Allaolevat hinnat voimassa LTKY:n ja KOE:n yhdistysrekisterien yhdistyksille. Muille tahoille vuokraushinnasto sovitaan tapauskohtaisesti.
 
 ### LAITTEIDEN VUOKRAUSHINNASTO:
 
@@ -54,11 +54,19 @@ Backline:
 - Hartke 4x10” bassokaappi
 - Rumpusetti (Pearl Vision Birch VBL)
 - Syntetisaattori (Roland RS-5)
+- Kiippari (Numastage studiologic)
 
 **Hinta: 50€**
 
 Valoja:
 
-- LED PAR-kannuja, leditolpat, Quad Phaset, strobo, savukone…
+- RGB led
+- led bar
+- etuvalot
+- Strobo
+- Savukoneet+neste
+- halogeeni blinderit
+- par kannuja
+- Lisää valoja saatavilla tarpeen mukaan
 
-**Hinta: 5€/valo, 150€ asti**
+**Hinta: 5€/valo**

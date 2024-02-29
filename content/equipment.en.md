@@ -6,11 +6,11 @@ title = "Equipment"
 
 +++
 
-We rent sound and lighting equipment for different events. In addition to the packages listed below we can rent out some of our other equipment. We offer training for the installation and usage of the equipment if necessary. We can also offer technical staff where possible. If you are interested [contact us.](#contact)
+We rent sound and lighting equipment for different events. In addition to the packages listed below we can rent out some of our other equipment. We offer training for the installation and usage of the equipment if necessary. We can also offer technical staff. If you are interested [contact us.](#contact)
 
 NOTE! If you are ordering equipment for a band or an artist to use from us, we absolutely require a technical rider well before the date of the performance.
 
-The rental prices below are valid for associations in LTKY's registry. For other parties the fees are agreed upon on a case by case basis
+The rental prices below are valid for associations in LTKY's and KOE's registries. For other parties the fees are agreed upon on a case by case basis
 
 ### RENTAL PRICES OF THE EQUIPMENT:
 
@@ -58,11 +58,18 @@ Backline:
 - Hartke 4x10” bass cabinet
 - Drum set (Pearl Vision Birch VBL)
 - Synthesizer (Roland RS-5)
+- Stage piano (Numastage studiologic)
 
 **Price: 50€**
 
 Lighting:
 
-- LED PAR pots, LED bars, Quad Phases, strobes, smoke machine…
+- RGB led
+- led bar
+- front lights
+- Strobe
+- smoke machine + smoke liquid
+- halogen blinder
+- More lights available if the need arrases
 
-**Price: 5€/fixture, up to 150€**
+**Price: 5€/fixture**

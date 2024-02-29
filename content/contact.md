@@ -1,7 +1,7 @@
 +++
 title = "Ota yhteyttä"
 weight = 40
-menuname = "viesti"
+menuname = "Yhteystiedot"
 draft = false
 +++
 
