@@ -9,7 +9,18 @@ draft = false
 
 Yhteystiedot:
 
-Laskutus- ja talousasioissa: talous@temu.fi
+Laskutus- ja talousasioissa:
+
+Lappeenrannan Teknillisen Yliopiston Musiikkiyhdistys TeMu ry
+Laserkatu 10
+53850 Lappeenranta
+
+Y-tunnus 3082778-9
+
+Verkkolaskutusosoite 003730827789
+Välittäjä APIX Messaging Oy, 003723327487
+
+Voit myös lähettää laskut sähköpostitse PDF-muodossa osoitteeseen talous@temu.fi
 
 Vuokrauskyseiyissä: myynti@temu.fi tai [@Lantel0](https://t.me/Lantel0)
 
