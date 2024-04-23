@@ -21,7 +21,7 @@ Laserkatu 10\
 53850 Lappeenranta\
 Business ID 3082778-9\
 E-invoice address 003730827789\
-Operator APIX Messaging Oy, 003723327487\
+Operator APIX Messaging Oy, 003723327487
 
 If e-invoicing is not possible, you can also send the invoice by e-mail talous@temu.fi
 
