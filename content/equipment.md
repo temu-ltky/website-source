@@ -37,7 +37,19 @@ Laajennettu puhesetti:
 
 **Hinta: 150€**
 
-Iso-PA:
+Iso PA:
+- 6kpl yläpääkaijutin (Nexo PS15)
+- 6kpl (Nexo PS15 Bass)
+- 4kpl Passiivisubwoofer (Nexo LS1200)
+Päätteet
+- 3kpl Crown macro tech 3600VZ
+Prosessori
+- Nexo PS15 TD CONTROLLER MK2
+Laitteisto soveltuu isoihin tapahtumiin sekä ulkoilmatapahtumiin. [Kysy rohkeasti tarjousta myynnistä.](#contact)
+
+**Hinta: 250€**
+
+Bändi PA:
 
 - 2 kpl 15” yläpääkaiutin (dBTechnologies Arena 15 Pro, 500W RMS)
 - 4 kpl 18” passiivisubwoofer (Had Audio SW184PL, 1000W RMS)
@@ -55,6 +67,7 @@ Backline:
 - Rumpusetti (Pearl Vision Birch VBL)
 - Syntetisaattori (Roland RS-5)
 - Kiippari (Numastage studiologic)
+- 5kpl dB Technologies Flexsys FM12
 
 **Hinta: 50€**
 
@@ -70,3 +83,5 @@ Valoja:
 - Lisää valoja saatavilla tarpeen mukaan
 
 **Hinta: 5€/valo**
+
+Vuokraamme myös pienempiä kokonaisuuksia, mikrofoneja, miksereitä, monitorointia tai teknikkopalvelua pelkästään [Kysy rohkeasti tarjousta!](#contact)
