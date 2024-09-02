@@ -4,7 +4,7 @@ weight = 30
 draft = false
 +++
 
-Teekkareiden musiikkikerhon hallitus vuodelle 2024
+Lappeenrannan Teknillisen Yliopiston Musiikkiyhdistys TeMu ry:n hallitus vuodelle 2024
 
 Ota yhteyttä [Yhteystiedot-osion](#contact) kautta
 
