@@ -6,7 +6,7 @@ draft = false
 
 Teekkareiden musiikkikerhon hallitus vuodelle 2024
 
-Ota yhteyttä [Viesti-osion](#contact) kautta
+Ota yhteyttä [Yhteystiedot-osion](#contact) kautta
 
 | Nimi             | Tehtävä           |
 | ---------------- | ----------------- |

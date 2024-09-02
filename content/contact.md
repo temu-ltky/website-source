@@ -9,7 +9,7 @@ draft = false
 
 Yhteystiedot:
 
-Vuokrauskyseiyissä: myynti@temu.fi tai [@Lantel0](https://t.me/Lantel0)
+Vuokrauskyselyissä: myynti@temu.fi tai [@Lantel0](https://t.me/Lantel0) (telegram)
 
 Techmuun liittyvissä asioissa: techmu@temu.fi
 

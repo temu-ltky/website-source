@@ -8,7 +8,7 @@ weight = 30
 
 Temu's board 2024
 
-Contact with the [contact form](#contact)
+Contact with the [contact page](#contact)
 
 | Name             | Task                 |
 | ---------------- | -------------------- |
