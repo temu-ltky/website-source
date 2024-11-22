@@ -1,5 +1,5 @@
 +++
-title = " Hallitus"
+title = "Hallitus"
 weight = 30
 draft = false
 +++

@@ -43,10 +43,23 @@ Enhanced speech set:
 
 Big PA:
 
-- 2x 15” mid-high speakers (dBTechnologies Arena 15 Pro, 500W RMS)
-- 4x 18” passive subwoofer (Had Audio SW184PL, 1000W RMS)
-- 3000W power amplifier rack (dbx DriveRack PA, c audio Pulse 2x1100 ja Powersoft M30D)
-- Digital mixer and stagebox (Allen&Heath GLD-80 ja AR2412)
+- 6x mid-high speakers (Nexo PS15)
+- 6x (Nexo PS15 Bass)
+- 4x passive subwoofers (Nexo LS1200)\
+Amps:
+- 3x Crown macro tech 3600VZ\
+Processor:
+- Nexo PS15 TD CONTROLLER MK2
+
+Suitable for large events and outdoor events. [Feel free to ask for more details.](#contact)
+
+
+Band PA:
+
+- 2 pcs 15" top speakers (dBTechnologies Arena 15 Pro, 500W RMS)
+- 4 x 18" passive subwoofers (Had Audio SW184PL, 1000W RMS)
+- 3000W main array (dbx DriveRack PA, c audio Pulse 2x1100 and Powersoft M30D)
+- Digital mixer and lava box (Allen&Heath GLD-80 and AR2412)
 
 **Price: 250€**
 
@@ -59,6 +72,7 @@ Backline:
 - Drum set (Pearl Vision Birch VBL)
 - Synthesizer (Roland RS-5)
 - Stage piano (Numastage studiologic)
+- 5kpl dB Technologies Flexsys FM12 (monitors)
 
 **Price: 50€**
 
@@ -73,3 +87,5 @@ Lighting:
 - More lights available if the need arrases
 
 **Price: 5€/fixture**
+
+We also rent smaller sets, microphones, mixers, monitoring or technician services separately. [Feel free to ask for more details.](#contact)
