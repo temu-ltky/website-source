@@ -8,7 +8,7 @@ draft = false
 
 Contact us:
 
-Equipment rental: myynti@temu.fi or [@Lantel0](https://t.me/Lantel0)
+Equipment rental: myynti@temu.fi or [@Lantel0](https://t.me/Lantel0) (telegram)
 
 Techmu: techmu@temu.fi
 
