@@ -1,5 +1,5 @@
 +++
-title = "Liity"
+title = "Liity jäseneksi"
 weight = 10
 draft = false
 +++
