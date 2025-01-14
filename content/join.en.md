@@ -13,6 +13,6 @@ TeMu ry’s annual membership fee is 10€.
 
 You can join TeMu ry by purchasing the membership from our Holvi webstore.
 
-After this we recommend filling out the [Pommari access form](https://forms.gle/Mrh3wJ9bzLNiLjMz5) which the board will process and using its own judgment grant access to pommari and the reservation calendar.
+After this we recommend filling out the [Pommari access form](https://forms.gle/W7JdrSnwFALMQKRn7/) which the board will process and using its own judgment grant access to pommari and the reservation calendar.
 
 [Holvi webstore](https://holvi.com/shop/Temury/)
