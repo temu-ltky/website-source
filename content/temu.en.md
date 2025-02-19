@@ -4,9 +4,9 @@ weight = 10
 draft = false
 +++
 
-The purpose of TeMu ry is to unite the students of LUT-concerns with music related activities, develop music as a hobby for its members, increase music as a hobby at LUT-concern and promote and support the development of live music activities by students.
+The purpose of TeMu ry is to unite the students of LUT Universities with music related activities, develop music as a hobby for its members, increase music as a hobby at LUT Universities and promote and support the development of live music activities by students.
 
-To fulfill this we organize meetings, music events and other get-togethers. We collaborate mainly with LUT-concerns student and alumni organizations, LUT-concern itself, the Student Union of Lappeenranta Union of Technology and the Student Union of Saimaa University of Applied Sciences. We rent sound and lighting equipment for the previously mentioned communities and we train the usage and installation of them to our interested members.
+To fulfill this we organize meetings, music events and other get-togethers. We collaborate mainly with LUT Universities' student and alumni organisations, LUT University itself, the Student Union of LUT University LTKY and the Student Union of LAB University of Applied Sciences KOE. We rent sound and lighting equipment for the previously mentioned communities and we train the usage and installation of them to our interested members.
 
 Our most well known event starting from 1990 is the Saunayö festival, where bands of the members of TeMu get to perform.
 
