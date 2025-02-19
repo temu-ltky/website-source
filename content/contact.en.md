@@ -16,7 +16,7 @@ In all other matters contact the board: hallitus@temu.fi
 
 Billing:
 
-Lappeenrannan Teknillisen Yliopiston Musiikkiyhdistys TeMu ry\
+LUT-yliopiston musiikkiyhdistys TeMu ry\
 Laserkatu 10\
 53850 Lappeenranta\
 Business ID 3082778-9\

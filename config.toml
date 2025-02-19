@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 
 [params]
   title = "Temu"
-  description = """LAPPEENRANNAN TEKNILLISEN YLIOPISTON MUSIIKKIYHDISTYS TEMU RY.<br /> <a href="https://ltky.fi/">LTKY</a> Laserkatu 10 53850 Lappeenranta """
+  description = """LUT-yliopiston musiikkiyhdistys TeMu ry.<br /> <a href="https://ltky.fi/">LTKY</a> Laserkatu 10 53850 Lappeenranta """
   logoimage = "/images/logo.png"
   copyright = "Temu"
 

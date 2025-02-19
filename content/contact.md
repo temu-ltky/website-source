@@ -17,7 +17,7 @@ Muissa asioissa ota yhteyttä koko hallitukseen: hallitus@temu.fi
 
 Laskutus- ja talousasioissa:
 
-Lappeenrannan Teknillisen Yliopiston Musiikkiyhdistys TeMu ry\
+LUT-yliopiston musiikkiyhdistys TeMu ry\
 Laserkatu 10\
 53850 Lappeenranta\
 Y-tunnus 3082778-9\
