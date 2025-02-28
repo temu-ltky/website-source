@@ -46,22 +46,12 @@ Big PA:
 - 6x mid-high speakers (Nexo PS15)
 - 6x (Nexo PS15 Bass)
 - 4x passive subwoofers (Nexo LS1200)\
-Amps:
+  Amps:
 - 3x Crown macro tech 3600VZ\
-Processor:
+  Processor:
 - Nexo PS15 TD CONTROLLER MK2
 
 Suitable for large events and outdoor events. [Feel free to ask for more details.](#contact)
-
-
-Band PA:
-
-- 2 pcs 15" top speakers (dBTechnologies Arena 15 Pro, 500W RMS)
-- 4 x 18" passive subwoofers (Had Audio SW184PL, 1000W RMS)
-- 3000W main array (dbx DriveRack PA, c audio Pulse 2x1100 and Powersoft M30D)
-- Digital mixer and lava box (Allen&Heath GLD-80 and AR2412)
-
-**Price: 250€**
 
 Backline:
 
