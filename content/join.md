@@ -10,6 +10,6 @@ TeMu ry:n vuosittainen jäsenmaksu on 10€.
 
 TeMun jäseneksi voit liittyä maksamalla jäsenmaksun Holvi-verkkokauppaamme.
 
-Tämän jälkeen pommarin käyttöoikeuden saantiin sinun tarvitsee vielä täyttää [Pommarioikeusanomus](https://forms.gle/W7JdrSnwFALMQKRn7/) hallitus käsittelee nämä hakemukset ja sitten myöntää harkinnan mukaan pommarin käyttöoikeudet.
+Tämän jälkeen pommarin käyttöoikeuden saantiin sinun tarvitsee vielä täyttää [Pommarioikeusanomus](https://docs.google.com/forms/d/e/1FAIpQLScKdLq0vSI4U_D1iqoIqLGzaGHbM-k5ABDxwfYehRNuGd0X4g/viewform?usp=dialog/) hallitus käsittelee nämä hakemukset ja sitten myöntää harkinnan mukaan pommarin käyttöoikeudet.
 
 [Holvi verkkokauppa](https://holvi.com/shop/Temury/)
