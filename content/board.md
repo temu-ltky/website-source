@@ -4,18 +4,18 @@ weight = 30
 draft = false
 +++
 
-Lappeenrannan Teknillisen Yliopiston Musiikkiyhdistys TeMu ry:n hallitus vuodelle 2025
+Lappeenrannan Teknillisen Yliopiston Musiikkiyhdistys TeMu ry:n hallitus vuodelle 2026
 
 Ota yhteyttä [Yhteystiedot-osion](#contact) kautta
 
 | Nimi              | Tehtävä           |
 | ----------------- | ----------------- |
-| Oskari Ekholm     | Puheenjohtaja     |
-| Eero Koskikallio  | Varapuheenjohtaja |
-| Antti Karhunen    | Rahastonhoitaja   |
-| Minea Forsell     | Sihteeri          |
-| Joona Hyytiäinen  | Techmuvastaava    |
+| Eero Koskikallio  | Puheenjohtaja     |
+| Roope Jokivirta   | Varapuheenjohtaja |
+| Juho Kuosmanen    | Rahastonhoitaja   |
+| Lauri Sorsa       | Sihteeri          |
+| Eero Koskinen     | Techmuvastaava    |
 | Eero Koskikallio  | Myyntivastaava    |
-| Roope Jokivirta   | Pommarivastaava   |
+| Lukas Maroschek   | Pommarivastaava   |
 | Ignacy Winiarczyk | Tapahtumavastaava |
-| Eero Koskinen     | Hallituksen jäsen |
+| Georgi Horosh     | Hallituksen jäsen |

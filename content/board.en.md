@@ -6,18 +6,18 @@ weight = 30
 
 +++
 
-Temu's board 2025
+Temu's board 2026
 
 Contact with the [contact page](#contact)
 
 | Name              | Task                 |
 | ----------------- | -------------------- |
-| Oskari Ekholm     | Chairman             |
-| Eero Koskikallio  | Vice chairman        |
-| Antti Karhunen    | Treasurer            |
-| Minea Forsell     | Secretary            |
-| Joona Hyytiäinen  | Techmu-correspondent |
+| Eero Koskikallio  | Chairman             |
+| Roope Jokivirta   | Vice chairman        |
+| Juho Kuosmanen    | Treasurer            |
+| Lauri Sorsa       | Secretary            |
+| Eero Koskinen     | Techmu-correspondent |
 | Eero Koskikallio  | Sales manager        |
-| Roope Jokivirta   | Pommari maintainer   |
+| Lukas Maroschek   | Pommari maintainer   |
 | Ignacy Winiarczyk | Event manager        |
-| Eero Koskinen     | Board member         |
+| Georgi Horosh     | Board member         |
